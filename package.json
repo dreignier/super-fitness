@@ -1,0 +1,19 @@
+{
+  "name": "super-fitness",
+  "version": "1.0.0",
+  "description": "Personal useless project, don't look",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreignier/super-fitness.git"
+  },
+  "author": "dreignier",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dreignier/super-fitness/issues"
+  },
+  "homepage": "https://github.com/dreignier/super-fitness#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
